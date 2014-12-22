@@ -1,0 +1,16 @@
+body {
+  background:#2ECC71;
+  font-size:16pt;
+}
+.jumbotron {
+  background:#2EFF71;
+}
+h1 h2 {
+  margin-left:20px;
+}
+.jumbotron h2 {
+  color:black;
+}
+#logo {
+  max-width:50%;
+}
