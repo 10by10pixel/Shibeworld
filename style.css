@@ -1,13 +1,13 @@
 body {
   background:#2ECC71;
   font-size:16pt;
-  color:whitw;
+  color:white;
 }
 .jumbotron {
   background:#2EFF71;
 }
 .jumbotron h1 {
-  color:white;
+  color:black;
 }
 h1 h2 {
   margin-left:20px;
